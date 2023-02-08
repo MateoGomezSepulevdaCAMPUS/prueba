@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100;
+    vertical-align: baseline;
+    
+}
+body{
+    text-align: unset;
+    font-family: 'Courier New', Courier, monospace; 
+}
+    
+header{
+    background-color: #1e1d2b;
+    display: flow-root;
+}
+.header h1{
+    color: #ff702a
+}
+.header h2{
+    color: #ff702a
+}
+    
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+    }
