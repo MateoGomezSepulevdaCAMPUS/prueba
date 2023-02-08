@@ -4,6 +4,7 @@
     border: 0;
     font-size: 100;
     vertical-align: baseline;
+    background-color: #1e1d2b;
     
 }
 body{
@@ -14,6 +15,8 @@ body{
 header{
     background-color: #1e1d2b;
     display: flow-root;
+    justify-content: center;
+    align-items: center;
 }
 .header h1{
     color: #ff702a
@@ -27,4 +30,5 @@ header{
     align-items: center;
     justify-content: space-between;
     height: 63px;
+    background-color: #1e1d2b;
     }
